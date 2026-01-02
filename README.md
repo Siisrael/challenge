@@ -1,4 +1,4 @@
-Modelling approach:
+## Modelling approach:
 
 Este es un problema de regresión donde buscamos predecir charges a partir de variables numéricas y categóricas (edad, bmi, hijos, sexo, smoker, región). 
 Como análisis inicial revisé la correlación lineal entre las variables numéricas y el target y observé correlaciones bajas/moderadas, lo que sugiere que una relación estrictamente lineal puede ser limitada y que pueden existir no linealidades e interacciones entre variables.
