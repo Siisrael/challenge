@@ -1,0 +1,11 @@
+Metricas del modelo:
+================
+CV (5-fold) MAE: 1807.24 ± 194.56
+
+Train MAE: 1502.09
+Test  MAE: 1663.96
+Gap (Test-Train): 161.87
+
+Test RMSE: 4677.08
+Test R2:   0.8591
+

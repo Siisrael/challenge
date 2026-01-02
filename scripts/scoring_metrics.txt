@@ -1,0 +1,18 @@
+Metricas sample de 10 filas
+==============================
+
+Estadisticas de la columna cherges del sample:
+- Mean:   12161.16
+- Min:    2117.34
+- Max:    33750.29
+- Std:    10313.99
+
+Metricas:
+- MAE:  238.08
+- RMSE: 383.95
+
+Informacion extra sobre las predicciones
+- Pred mean: 12225.69
+- Pred min:  2143.53
+- Pred max:  34851.14
+- Pred std:  10504.86
