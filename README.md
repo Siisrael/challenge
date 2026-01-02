@@ -9,6 +9,7 @@ Además, como el target está sesgado a la derecha, apliqué una transformación
 ## Cómo correr (end-to-end)
 Desde la raíz del repo:
 
+```bash
 docker compose build --no-cache
 docker compose up -d db
 docker compose run --rm app
